@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<Html>
+<head>
+    <div class="heroimg" </div>
+        <footer> </footer>
+<title></title>
+
+</head>
+<body>
+<header>
+<div class="inline-block"></div>
+<div class="logo"></div>
+<div class="image-wrapper">
+    <img src="    " alt="image"> 
+</div>
+<nav class="inline-block">
+<li>about</li>
+<li>skills</li>
+<li>Work</li>
+<li>contract</li>
+</nav>  
+</header>
+
+</body>
+
+
+
+
+
+</Html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</doctype>
